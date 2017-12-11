@@ -1,3 +1,8 @@
+/*
+author:firefoxhome                              
+*/
+
+
 #include <stdio.h>
 
 int main(int argc, const char *argv[])
@@ -17,4 +22,4 @@ int main(int argc, const char *argv[])
 }
 
 
-/*阳阳买苹果*/
+/*yang yang buy apples*/
