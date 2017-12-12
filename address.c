@@ -9,3 +9,8 @@ int main(int argc, const char *argv[])
 	printf("%p\n", p);
 	return 0;
 }
+
+/*
+ * author:firefoxhome
+ *
+*/
